@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm ALIAT Atef</h1>
-<h3 align="center">AI Engineer | Computer Vision Enthusiast | Java Developer</h3>
+<h3 align="center">AI | Computer Vision Enthusiast | Java Developer</h3>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=n1n0u&label=Profile%20views&color=0e75b6&style=flat" alt="n1n0u" /> 
