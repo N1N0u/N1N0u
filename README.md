@@ -10,7 +10,7 @@
     <img src="https://github-profile-trophy.vercel.app/?username=n1n0u" alt="n1n0u" />
   </a> 
 </p>
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=N1N0u&layout=compact)
 ---
 
 ### 🚀 About Me
