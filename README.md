@@ -30,13 +30,12 @@
 
 ## 🚀 Featured Projects (AI / Computer Vision)
 
-| Project | Description | Tech Stack | Impact |
-|---------|-------------|------------|--------|
-| [Face Recognition V2](https://github.com/N1N0u/Face_Recognition_V2) | Real-time face recognition pipeline (Detection → Embedding → Recognition) | MTCNN, FaceNet, OpenCV, Python | < 100ms inference |
+| Project | Description | Tech Stack | 
+|---------|-------------|------------|
+| [Face Recognition V2](https://github.com/N1N0u/Face_Recognition_V2) | Real-time face recognition pipeline (Detection → Embedding → Recognition) | MTCNN, FaceNet, OpenCV, Python | 
 | [USB-LOCKER-V2](https://github.com/N1N0u/USB-LOCKER-V2) | AI-powered USB security system with biometric auth | Java, Python, OpenCV | Enterprise security |
-| [AI Image Enhancer](https://github.com/N1N0u/Image-Enhancer-Tool) | Super-resolution system for document/image reconstruction | Real-ESRGAN, PyTorch, CUDA | 4x resolution boost |
-| [Smart Document Processor](https://github.com/N1N0u/Smart-Document-Enhancer) | Automated document enhancement & OCR pipeline | OpenCV, Tesseract, Pillow | Batch processing |
-| [facerecon](https://github.com/N1N0u/facerecon) | Early CV experiments & recognition pipeline | OpenCV, Dlib, Python | Research baseline |
+| [AI Image Enhancer](https://github.com/N1N0u/Image-Enhancer-Tool) | Super-resolution system for document/image reconstruction | Real-ESRGAN, PyTorch |
+| [facerecon](https://github.com/N1N0u/facerecon) | Early CV experiments & recognition pipeline | OpenCV, Python |
 
 ---
 
@@ -44,9 +43,9 @@
 
 | Project | Description | Tech Stack | Scale |
 |---------|-------------|------------|-------|
-| [Usb-Locker](https://github.com/N1N0u/Usb-Locker) | Hardware-software USB security gateway | Java, JNI, USB4Java | Single-user |
+| [Usb-Locker](https://github.com/N1N0u/Usb-Locker) | Hardware-software USB security gateway | Java | Single-user |
 | [Inventory Management System](https://github.com/N1N0u/inventory-management-system) | Enterprise stock & business management | Java, MySQL, Swing | Multi-branch |
-| [emitcompany-website](https://github.com/N1N0u/emitcompany-website) | Corporate web presence & analytics | HTML5, CSS3, JS, GA4 | Production |
+| [emitcompany-website](https://github.com/N1N0u/emitcompany-website) | Corporate web presence & analytics | HTML5, CSS3, JS | Production |
 | [GestionEnseignants](https://github.com/N1N0u/GestionEnseignants) | Educational staff management platform | Java, SQLite, JasperReports | Institution |
 
 ---
