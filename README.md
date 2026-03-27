@@ -161,20 +161,13 @@
 
 ---
 
-## 📜 Certifications & Continuous Learning
-
-- 🎓 **Master's in Computer Vision** - Université Larbi Ben M'Hidi (2019)
-- 🤖 **Deep Learning Specialization** - Coursera (Andrew Ng)
-- ☁️ **TensorFlow Developer Certificate** - Google
-- 📊 **Google Analytics 4** - Google Skillshop
-- 🐳 **Docker & Kubernetes** - Self-taught & Production experience
 
 ---
 
 ## 🤝 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/aliat-atef/">
+  <a href="https://www.linkedin.com/in/atef-aliat/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:aliat.atef@gmail.com">
@@ -183,27 +176,14 @@
   <a href="https://github.com/N1N0u">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://kaggle.com/aliatatef">
+  <a href="https://www.kaggle.com/atefaliat">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
   </a>
 </p>
 
-📧 **aliat.atef@gmail.com** | 💼 Open for AI/Computer Vision roles
 
 ---
 
 ## 🎯 Professional Vision
 
 > *"I don't just build AI — I engineer intelligent systems that see, understand, and create real-world impact."*
-
-**Specialized in**: Real-time inference optimization | Edge AI deployment | Cross-platform AI integration | Production-ready pipelines
-
----
-
-## ⚡ Quick Facts
-
-```text
-🔹 5+ years bridging AI research & production systems
-🔹 Built CV systems processing 1000+ FPS combined
-🔹 Java ↔ Python integration specialist
-🔹 From prototype to deployment in record time
