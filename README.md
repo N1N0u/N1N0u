@@ -111,11 +111,40 @@
 ---
 ## 📊 GitHub Analytics & Performance
 
-<img src="https://github-readme-stats.vercel.app/api?username=N1N0u&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=N1N0u&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" />
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=N1N0u&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" />
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=N1N0u&theme=tokyonight&hide_border=true" />
+</p>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=N1N0u&theme=tokyo-night&hide_border=true" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=N1N0u&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&cache_seconds=1800" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=N1N0u&theme=tokyo-night&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=N1N0u&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=N1N0u&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=N1N0u&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=N1N0u&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=N1N0u&theme=tokyonight&utcOffset=1" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=N1N0u&theme=tokyonight&no-frame=true&row=1&column=7" />
+</p>
+
 
 ---
 
