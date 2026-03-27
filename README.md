@@ -109,7 +109,6 @@
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 
 ---
-
 ## 📊 GitHub Analytics & Performance
 
 <p align="center">
@@ -139,8 +138,6 @@
 
 ---
 
-
----
 
 ## 🤝 Let's Connect
 
