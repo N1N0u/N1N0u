@@ -1,7 +1,4 @@
 <h1 align="center">Hi 👋, I'm ALIAT Atef</h1>
-<h3 align="center">AI Engineer | Computer Vision Specialist | System Builder</h3>
-
-<h1 align="center">🚀 ALIAT Atef</h1>
 <h3 align="center">AI Engineer | Computer Vision Specialist | Real-Time Systems Builder</h3>
 
 <p align="center">
@@ -94,10 +91,6 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=n1n0u&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=n1n0u&theme=tokyo-night" />
 </p>
 
@@ -128,4 +121,3 @@
 
 ```text
 I don't just build AI — I engineer intelligent systems.
-```
