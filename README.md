@@ -10,56 +10,46 @@
   <img src="https://img.shields.io/github/followers/n1n0u?label=Followers&style=social" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=n1n0u&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
+---
+
+## 📍 Location
+🇩🇿 Based in Algeria | Available for remote opportunities
 
 ---
 
 ## 🧠 About Me
 
-- 🔭 Building **real-time AI systems (Face Recognition, Vision AI)**
-- 🤖 Specialized in **Deep Learning & Computer Vision**
-- ⚡ Obsessed with **latency, performance & optimization**
-- 🔗 Expert in **Java ↔ Python ↔ AI integration**
+- 🔭 Building **real-time AI systems**
+- 🤖 Specialized in **Computer Vision & Deep Learning**
+- ⚡ Focused on **optimization & low latency**
+- 🔗 Strong in **Java ↔ Python ↔ AI integration**
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects
 
-### 🔹 Face Recognition V2
-⚡ Real-time system using MTCNN + FaceNet  
-🎯 Focus: **Speed · Accuracy · Deployment**
-
----
-
-### 🔹 AI Image Enhancer
-🧠 Super-resolution using Real-ESRGAN  
-🎯 Focus: **Visual quality & reconstruction**
-
----
-
-### 🔹 AI USB Locker
-🔐 AI-based authentication system  
-🎯 Focus: **Security + AI integration**
+| Project | Tech | Status |
+|--------|------|--------|
+| [Face Recognition V2]([https://github.com/n1n0u](https://github.com/N1N0u/Face_Recognition_V2)) | MTCNN, FaceNet, Python | ✅ Done |
+| [AI Image Enhancer]([https://github.com/n1n0u](https://github.com/N1N0u/Image-Enhancer-Tool)) | Real-ESRGAN, PyTorch | ✅ Done |
 
 ---
 
 ## 🧠 AI Stack
 
-![Python](https://img.shields.io/badge/Python-AI-blue)
-![PyTorch](https://img.shields.io/badge/PyTorch-DeepLearning-red)
-![OpenCV](https://img.shields.io/badge/OpenCV-ComputerVision-green)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-NeuralNetworks-orange)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 ---
 
 ## ⚙️ Systems
 
-![Java](https://img.shields.io/badge/Java-Backend-orange)
-![SQLite](https://img.shields.io/badge/SQLite-Database-lightgrey)
-![Linux](https://img.shields.io/badge/Linux-System-black)
-![Git](https://img.shields.io/badge/Git-VersionControl-red)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
@@ -81,24 +71,16 @@
 
 ## 🏆 Achievements
 
-- 🦈 Pull Shark  
-- ⚡ YOLO  
-- 🤠 Quickdraw  
-
----
-
-## 🧲 Bonus (Final Boss Mode)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=n1n0u&theme=tokyonight" />
-</p>
+- 🦈 Pull Shark (Merged PRs)
+- ⚡ YOLO (Direct merges)
+- 🤠 Quickdraw (Fast issue resolution)
 
 ---
 
 ## 🤝 Connect
 
-[LinkedIn](https://www.linkedin.com/in/aliat-atef/)  
-📧 aliat.atef@gmail.com  
+[LinkedIn](https://www.linkedin.com/in/aliat-atef/)
+📧 aliat.atef@gmail.com
 
 ---
 
@@ -113,4 +95,3 @@
 ```text
 I don't just build AI — I build systems that think.
 ```
-
