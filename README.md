@@ -1,3 +1,4 @@
+<!-- Keywords for SEO: Computer Vision Engineer, AI Engineer, Deep Learning, OpenCV, Python, Java, Real-time Systems, Face Recognition, MLOps -->
 <h1 align="center">Hi 👋, I'm ALIAT Atef</h1>
 <h3 align="center">AI Engineer | Computer Vision Engineer | Real-Time Systems Builder</h3>
 
@@ -114,8 +115,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=n1n0u&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
 </p>
-
-
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=n1n0u&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
