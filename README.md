@@ -141,13 +141,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=N1N0u&theme=tokyonight&utcOffset=1" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=N1N0u&theme=tokyonight&no-frame=true&row=1&column=7" />
-</p>
-
-<p align="center">
-  <img src="https://github.com/N1N0u/N1N0u/blob/output/github-contribution-grid-snake.svg" />
-</p>
 ---
 
 ## 🏆 GitHub Achievements
