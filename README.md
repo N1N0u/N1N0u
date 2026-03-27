@@ -1,137 +1,108 @@
 <h1 align="center">Hi 👋, I'm ALIAT Atef</h1>
-<h3 align="center">AI | Computer Vision Enthusiast | Java Developer</h3>
+<h3 align="center">AI Engineer | Computer Vision Specialist | System Builder</h3>
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=n1n0u&label=Profile%20views&color=0e75b6&style=flat" alt="n1n0u" /> 
-</p>
-
-<p align="left"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=n1n0u" alt="n1n0u" />
-  </a> 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=n1n0u&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
-### 🚀 About Me
+## 🧠 About Me
 
-- 🔭 I’m currently working on **AI-driven projects including Machine Learning, Deep Learning, and Computer Vision**
-- 🧠 Passionate about **Artificial Intelligence, Neural Networks, and Data Science**
-- 💻 Experienced in **Full-Stack Development and Embedded Systems**
-- 📊 I enjoy building intelligent systems that solve real-world problems
-- 💬 Ask me about **AI, ML, Computer Vision, Web Development, or Embedded Programming**
-- 📫 How to reach me: **aliat.atef@gmail.com**
-- ⚡ Fun fact: *I believe learning never stops — every day is version 2.0 of myself.*
+I design and build **intelligent systems** focused on real-world impact.
 
----
+- 🔬 Specialized in **Computer Vision & Deep Learning**
+- ⚙️ Building **real-time AI systems (Face Recognition, Image Enhancement, Automation)**
+- 🧩 Strong in **system integration (Python ↔ Java ↔ Hardware)**
+- 🚀 Focused on **performance, optimization, and production-ready solutions**
 
-### 🤝 Connect with Me
-
-<p align="left">
-  <a href="https://instagram.com/n1_n0u_1" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="n1_n0u_1" height="30" width="40" />
-  </a>
-  <a href="https://www.linkedin.com/in/aliat-atef/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="Aliat Atef" height="30" width="40" />
-  </a>
-</p>
+> I don’t just train models — I build systems that work in the real world.
 
 ---
 
-### 🧠 AI & Data Science Stack
+## 🔥 Featured Projects
 
-- Machine Learning
+### 🔐 Face Recognition V2
+- Real-time face recognition system using **MTCNN + FaceNet**
+- Mobile camera integration (DroidCam)
+- High accuracy + optimized inference
+- Future integration → **USB Locker V3**
+
+### 🧠 AI Image Enhancer
+- Built with **Real-ESRGAN**
+- Enhances low-quality images using deep learning
+- Focus on **performance & visual quality**
+
+### 📦 Inventory Management System
+- Full-stack system (Java + SQL)
+- Real-world business logic implementation
+
+---
+
+## 🧠 AI & Engineering Stack
+
+### 🤖 AI / ML
 - Deep Learning
 - Computer Vision (OpenCV)
-- Neural Networks
-- Model Training & Evaluation
-- Data Analysis
+- CNN / Neural Networks
+- Model Training & Optimization
+
+### 💻 Languages
+- Python
+- Java
+- C / C++
+- SQL
+- PHP
+
+### ⚙️ Tools & Frameworks
+- PyTorch
+- TensorFlow
+- Scikit-learn
+- OpenCV
+
+### 🧩 Systems & Dev
+- Linux
+- Git / GitHub
+- Node.js
+- Embedded Systems
 
 ---
 
-### 🧰 Languages & Technologies
+## 📊 GitHub Analytics
 
-<p align="left"> 
-  <!-- Programming Languages -->
-  <strong>Languages:</strong>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/sql/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="sql" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a>
-  <a href="https://www.w3.org/Style/CSS/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a>
-  <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
-  </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="c++" width="40" height="40"/> 
-  </a>
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=n1n0u&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=n1n0u&theme=tokyonight&hide_border=true&background=0D1117" />
 </p>
 
-<p align="left">
-  <!-- Tools & Frameworks -->
-  <strong>AI & Frameworks:</strong>
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> 
-  </a>
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="40" height="40"/>
-  </a>
-  <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/>
-  </a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikit-learn/scikit-learn-original.svg" alt="scikit-learn" width="40" height="40"/>
-  </a>
+<p align="center">
+  <img width="60%" src="https://github-readme-activity-graph.vercel.app/graph?username=n1n0u&theme=tokyo-night&hide_border=true&bg_color=0D1117" />
 </p>
 
-<p align="left">
-  <!-- Tools & Systems -->
-  <strong>Tools & Systems:</strong>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
-  </a> 
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
-  </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a> 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=n1n0u&theme=tokyonight" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
+## 🤝 Connect
 
-<p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=n1n0u&show_icons=true&locale=en&layout=compact" alt="n1n0u" />
+<p align="center">
+  <a href="https://instagram.com/n1_n0u_1">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30"/>
+  </a>
+  <a href="https://www.linkedin.com/in/aliat-atef/">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" height="30"/>
+  </a>
 </p>
 
-<p>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=n1n0u&show_icons=true&locale=en" alt="n1n0u" />
-</p>
-
-<p>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=n1n0u&" alt="n1n0u" />
-</p>
+📧 **aliat.atef@gmail.com**
 
 ---
 
-### 🎯 Motto
+## 🎯 Engineering Philosophy
 
-> "Build intelligent systems. Solve real problems. Never stop learning."
+```text
+Build > Talk
+Optimize > Overcomplicate
+Ship > Perfect
