@@ -3,7 +3,7 @@
 <h3 align="center">AI Engineer | Computer Vision Engineer | Real-Time Systems Builder</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=750&height=60&lines=Computer+Vision+Engineer;Real-Time+AI+Systems;Face+Recognition+%7C+Deep+Learning;Low+Latency+%7C+High+Performance;Building+AI+for+Real+World+Applications;System+Integration+(Java+%E2%86%94+Python);Deploying+AI+End-to-End;Optimizing+Inference+Speed;Turning+Vision+into+Intelligence" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=750&height=60&lines=Computer+Vision+Engineer;Real-Time+AI+Systems;Face+Recognition+%7C+Deep+Learning;Building+AI+for+Real+World+Applications;System+Integration;Deploying+AI+End-to-End;Turning+Vision+into+Intelligence" />
 </p>
 
 <p align="center">
