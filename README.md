@@ -144,9 +144,6 @@
 
 ## 🏆 GitHub Achievements
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=n1n0u&theme=tokyonight&no-frame=true&row=1&column=6" alt="Trophies" />
-</p>
 
 - 🦈 **Pull Shark** → Multiple PRs merged
 - ⚡ **YOLO** → Direct merges & fast shipping
