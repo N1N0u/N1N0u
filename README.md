@@ -114,7 +114,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=N1N0u&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" />
 </p> -->
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://streak-stats.demolab.com?user=N1N0u&theme=tokyonight&hide_border=true" />
 </p>
 
@@ -124,16 +124,16 @@
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=N1N0u&theme=tokyo-night&hide_border=true" />
-</p>
+</p> -->
 
 <!-- <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=N1N0u&theme=tokyonight" />
 </p> -->
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=N1N0u&theme=tokyonight" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=N1N0u&theme=tokyonight" />
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=N1N0u&theme=tokyonight" />
