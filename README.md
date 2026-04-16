@@ -130,10 +130,10 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=N1N0u&theme=tokyonight" />
 </p> -->
 
-<!-- <p align="center">
+<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=N1N0u&theme=tokyonight" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=N1N0u&theme=tokyonight" />
-</p> -->
+</p> 
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=N1N0u&theme=tokyonight" />
