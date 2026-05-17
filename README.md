@@ -93,6 +93,27 @@
 
 ---
 
+## 📊 Monitoring & Observability
+
+### 🚀 Observability Stack
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Alertmanager](https://img.shields.io/badge/Alertmanager-FF6A00?style=for-the-badge&logo=prometheus&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+### 📈 Monitoring & Infrastructure Skills
+- **Metrics Collection**: Prometheus exporters, custom metrics, recording rules
+- **Visualization**: Grafana dashboards & infrastructure analytics
+- **Alerting**: Alertmanager routing, Slack integrations, alert inhibition
+- **Infrastructure Monitoring**: CPU, RAM, Disk, Network & GPU telemetry
+- **GPU Monitoring**: Intel GPU Exporter & NVIDIA DCGM Exporter
+- **Containerization**: Docker Compose monitoring stacks
+- **Observability**: Real-time infrastructure and application monitoring
+
+### 🔥 Monitoring Projects
+| Project | Description | Stack |
+|---------|-------------|-------|
+| [PcMonitor](https://github.com/N1N0u/PcMonitor) | Production-style monitoring & observability platform | Prometheus, Grafana, Alertmanager, Docker |
 ## 🧰 Tools & Workflow
 
 ### 💻 Development Environment
